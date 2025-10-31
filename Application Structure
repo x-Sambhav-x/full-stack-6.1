@@ -1,0 +1,10 @@
+src/main/java/com/example/middleware/
+│
+├── MiddlewareDemoApplication.java   <-- Main class
+├── controller/
+│   └── UserController.java
+├── middleware/
+│   ├── LoggingFilter.java
+│   └── AuthFilter.java
+└── config/
+    └── FilterConfig.java
